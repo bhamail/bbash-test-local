@@ -15,7 +15,3 @@ func main() {
 func myUnusedFunction() {
 	// nobody home
 }
-
-func secondUnusedFunction() {
-
-}
