@@ -1,4 +1,7 @@
 
+# the binary
+bbash-test-local
+
 #IntelliJ
 .idea
 *.iml
