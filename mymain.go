@@ -11,6 +11,10 @@ func main() {
 
 	// reference item in "internal" package
 	//fmt.Printf("I can see: %s\n", privatestuff.MyPrivateConst)
+
+	// two fix
+	myUnusedFunction()
+	secondUnused()
 }
 
 func myUnusedFunction() {
