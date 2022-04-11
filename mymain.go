@@ -17,3 +17,7 @@ func main() {
 func myUnusedFunction() {
 	// nobody home
 }
+
+func secondUnused() {
+	// also nothing happening here
+}
